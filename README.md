@@ -37,13 +37,15 @@
 -> cd my-app-new 
 -> npm start
 -> npm run build //production build
+-> npm install bootstrap@4.1.1
+-> npm install jquery popper.js
 
 # Simple React Snippets for faster development - extension 
 -> https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
 #8 React Bootstrap CSS installations
--> npm install –save react-bootstrap   // this package currently serves bootstrap 3
--> npm install –save reactstrap   // this supports bootstrap 4 version
+-> npm install –save bootstrap@4.1.1 
+-> add this in import 'bootstrap/dist/css/bootstrap.min.css'; index.js file
 
 #9 
 -> 
