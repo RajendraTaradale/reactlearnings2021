@@ -36,24 +36,27 @@
 -> npx create-react-app my-app-new  // The npx is a package runner tool that comes with npm 5.2 and above version.
 -> cd my-app-new 
 -> npm start
+-> npm run build //production build
 
+# Simple React Snippets for faster development - extension 
+-> https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
-#7  
--> 
--> 
+#8 React Bootstrap CSS installations
+-> npm install –save react-bootstrap   // this package currently serves bootstrap 3
+-> npm install –save reactstrap   // this supports bootstrap 4 version
 
-#5 
--> 
--> 
-
-#5 
--> 
--> 
-
-#5 
+#9 
 -> 
 -> 
 
-#5 
+#10 
+-> 
+-> 
+
+#11 
+-> 
+-> 
+
+#12 
 -> 
 -> 
