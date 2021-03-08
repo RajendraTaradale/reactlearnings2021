@@ -13,7 +13,7 @@ class Counter extends Component {
         names: ['Rajendra', 'Taradale', 'Sumit', 'Jaydeep', 'Kiran']
 
     }
-
+    
 
     displayName() {
         return "Welcome Here";
