@@ -10,7 +10,7 @@
 
 #6 What is Babel? -> It is compiler and transpiler which is used to convert angular/ react js and other type script source code to JS. It compiles React js code and ES6 to ES5 javascript code which will understand and run this on browsers
 
-#7 How to Setup React Js in local machine ? -> Follow the below steps -> npm install create-react-app -> npm view react version -> npm install react react-dom --save -> npx create-react-app my-app-new // The npx is a package runner tool that comes with npm 5.2 and above version. -> cd my-app-new -> npm start -> npm run build //production build -> npm install bootstrap@4.1.1 -> npm install jquery popper.js -> npm install react-router-dom
+#7 How to Setup React Js in local machine ? -> Follow the below steps -> npm install create-react-app -> npm view react version -> npm install react react-dom --save -> npx create-react-app my-app-new // The npx is a package runner tool that comes with npm 5.2 and above version. -> cd my-app-new -> npm start -> npm run build //production build -> npm install bootstrap@4.1.1 -> npm install jquery popper.js -> npm install react-router-dom ->npm install react-validation
 
 
 Simple React Snippets for faster development - extension
