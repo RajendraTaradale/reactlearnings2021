@@ -11,10 +11,13 @@ import PlainFunDemo from './components/plainCompTest'
 import LifeCycleSequence from './components/lifeCycleHooks'
 import RouterDemo from './components/routerDemo'
 
+import Appss from './components/reactHookForm.jsx'
+
 function App() {
   return (
 
     <div className="container">
+      <Appss/>
       <RouterDemo/>
          {/* <LifeCycleSequence/> */}
       {/* <PlainFunDemo/>
