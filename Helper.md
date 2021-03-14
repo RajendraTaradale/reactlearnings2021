@@ -12,7 +12,11 @@
 
 #7 How to Setup React Js in local machine ? -> Follow the below steps -> npm install create-react-app -> npm view react version -> npm install react react-dom --save -> npx create-react-app my-app-new // The npx is a package runner tool that comes with npm 5.2 and above version. -> cd my-app-new -> npm start -> npm run build //production build -> npm install bootstrap@4.1.1 -> npm install jquery popper.js -> npm install react-router-dom ->npm install react-validation -> npm i react-hook-form ->npm i react-query
 -> npm i react-select -> npm i react-table -> npm i react-query-devtools  -add Index.js <ReactQueryDevtools> to view the cached data on operations 
-
+-> graphQL - Query and manipulation language for api (apollow and relay librabry for react) | 
+-> npm i react-spring - animation
+-> nivo for charts
+-> React UI -> Material UI,BluePrint, Evergreen, Ant Design 
+-> https://dev.to/bornfightcompany/top-10-react-hook-libraries-4065
 
 Simple React Snippets for faster development - extension
 -> https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
