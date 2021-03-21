@@ -17,7 +17,8 @@
 -> nivo for charts
 -> React UI -> Material UI,BluePrint, Evergreen, Ant Design 
 -> https://dev.to/bornfightcompany/top-10-react-hook-libraries-4065
-
+-> npm i react-loadable - lazyloading and loader
+  
 Simple React Snippets for faster development - extension
 -> https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
