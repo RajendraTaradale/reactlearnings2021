@@ -34,6 +34,8 @@ Simple React Snippets for faster development - extension
 
 :high_brightness: React Bootstrap CSS installations -> npm install –save bootstrap@4.1.1 -> add this in import 'bootstrap/dist/css/bootstrap.min.css'; index.js file
 
+:high_brightness: https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
 #9 -> ->
 
 #10 -> ->
