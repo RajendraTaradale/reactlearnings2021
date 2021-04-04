@@ -10,7 +10,7 @@
 
 :high_brightness: What is Babel? -> It is compiler and transpiler which is used to convert angular/ react js and other type script source code to JS. It compiles React js code and ES6 to ES5 javascript code which will understand and run this on browsers
 
-:high_brightness: How to Setup React Js in local machine ? -> Follow the below steps :bulb: npm install create-react-app :bulb: npm view react version :bulb: npm install react react-dom --save :bulb: npx create-react-app my-app-new // The npx is a package runner tool that comes with npm 5.2 and above version. :bulb: cd my-app-new :bulb: npm start -> npm run build //production build :bulb: npm install bootstrap@4.1.1 :bulb: npm install jquery popper.js :bulb: npm install react-router-dom :bulb: npm install react-validation :bulb: npm i react-hook-form ->npm i react-query
+:high_brightness: How to Setup React Js in local machine ? -> Follow the below steps :bulb: npm install create-react-app :bulb: npm view react version :bulb: npm install react react-dom --save :bulb: npx create-react-app my-app-new // The npx is a package runner tool that comes with npm 5.2 and above version. :bulb: cd my-app-new :bulb: npm start -> npm run build //production build :bulb: npm install bootstrap@4.1.1 :bulb: npm install jquery popper.js :bulb: npm install react-router-dom :bulb: npm install react-validation :bulb: npm i react-hook-form ->npm i react-query :bulb: npm i reselect
 :bulb: npm i react-select :bulb:  npm i react-table :bulb:  npm i react-query-devtools  -add Index.js <ReactQueryDevtools> to view the cached data on operations 
 :bulb: graphQL - Query and manipulation language for api (apollow and relay librabry for react) | 
 :bulb: npm i react-spring - animation
